@@ -1,47 +1,4 @@
-{  
-   "name": "html",
-   "version": "1.0.0",
-   "description": "html guide ",
-   "main": "index.html",
-   "scripts": {
-   "start": "serve",
-   "build": "echo This is a static template, there is no bundler or bundling involved!"
-   },
-   "repository": {
-   "type": "git",
-   "url": "git+https://github.com/codesandbox-app/static-template.git"
-   },
-   "keywords": [],
-   "author": "Ives van Hoorne",
-   "license": "MIT",
-   "bugs": {
-   "url": "https://github.com/codesandbox-app/static-template/issues"
-   },
-   "homepage": "https://github.com/codesandbox-app/static-template#readme",
-   "devDependencies": {
-   "serve": "^11.2.0"
-   },
-   "name": "nodejs-sandbox",
-   "version": "1.0.0",
-   "description": "",
-   "main": "index.html",
-   "scripts": {
-   "start": "nodemon index.js"
-   },
-   "repository": {
-   "type": "git",             
-   "url": "git+https://github.com/codesandbox-app/static-template.git"
-   },
-   "keywords": [],
-   "author": "Ives van Hoorne",
-   "license": "MIT",
-   "bugs": {
-   "url": "https://github.com/codesandbox-app/static-template/issues"
-   },
-   "homepage": "https://github.com/codesandbox-app/static-template#readme",
-   "devDependencies": {
-   "nodemon": "^2.0.20"
-   },
+{
    "name":"neoxr-bot",
    "version":"4.0-rc",
    "description":"WhatsApp Bot (Base)",
@@ -67,8 +24,7 @@
       "@adiwajshing/baileys":"npm:@whiskeysockets/baileys",
       "@adiwajshing/keyed-db":"^0.2.4",
       "@colors/colors": "^1.6.0",
-      "fluent-ffmpeg": "^2.1.2",
-      "@neoxr/wb": "^1.12.12",
+      "@neoxr/wb": "^1.14.15",
       "bytes": "^3.1.2",
       "cfonts": "3.1.1",
       "json-stable-stringify": "^1.0.2",
